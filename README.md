@@ -1,4 +1,6 @@
-# swift-ts
+# swift-nextjs
+
+所用技术栈：`Next.js`, `Tailwind CSS`, `TypeScript`, `DaisyUI`
 
 ## Link
 
