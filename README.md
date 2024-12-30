@@ -580,4 +580,6 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ id: 1, name: body.name }, { status: 201});
 }
 ```
+# 推荐学习项目
 
+- [https://github.com/leerob/nextzy](https://github.com/leerob/nextzy)
