@@ -583,3 +583,25 @@ export async function POST(request: NextRequest) {
 # 推荐学习项目
 
 - [https://github.com/leerob/nextzy](https://github.com/leerob/nextzy)
+
+# 还在从零学？试试 Coding Agent
+
+> 2025 年之后，你不再需要从头到尾学完一个框架才能开始写项目了。
+
+现在有一类工具叫 **Coding Agent**，你只需要把这份笔记（或者项目需求）丢给它，它就能帮你理解上下文、生成代码、调试报错，甚至直接帮你把功能写完。
+
+**推荐的 Coding Agent：**
+
+| 工具 | 说明 |
+|------|------|
+| [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic 官方命令行 Agent，直接在终端里对话式写码 |
+| [OpenAI Codex](https://openai.com/index/openai-codex/) | OpenAI 的编码 Agent |
+| [Cursor](https://cursor.com) | 内置 AI 的代码编辑器，开箱即用 |
+
+**怎么用：**
+
+1. 把这份 README 或你想做的需求描述发给 Agent
+2. 问它「我想基于 Next.js 做一个 XX，帮我搭起来」
+3. 开干，边做边问，不懂的让它解释
+
+学习的最快方式不是看完文档再动手，而是**带着目标直接开始，遇到不懂的再问 Agent**。这份笔记可以作为你和 Agent 对话时的背景知识，但你完全不需要先"学完"它。
